@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -117,7 +118,7 @@
           
             
         </div> <!-- container// -->
-        
+       
         <?php
 ini_set('display_errors', 1);
 echo "Hello Cloud Computing class 0705!";
@@ -178,7 +179,9 @@ echo '<p>product information:</p>';
       </tr>
      
       <?php
+        }
+      ?>
         
- </body>
- 
- 
+    </body>
+</html>
+    
