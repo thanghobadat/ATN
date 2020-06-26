@@ -58,7 +58,7 @@
                 </form>
                 <ul class="nav navbar-nav navbar-right ml-auto">			
                     <li class="nav-item">
-                        <a href="insert.html">Insert</a>
+                        <a href="insert.php">Insert</a>
                     </li>
                     <li class="nav-item">
                         <a href="#" data-toggle="dropdown" class="btn btn-primary dropdown-toggle get-started-btn mt-1 mb-1">View</a>
