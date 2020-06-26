@@ -58,7 +58,7 @@
                 </form>
                 <ul class="nav navbar-nav navbar-right ml-auto">			
                     <li class="nav-item">
-                        <a href="file:///C:/Users/Admin/Documents/NetBeansProjects/ATNshop/insert.html">Insert</a>
+                        <a href="insert.html">Insert</a>
                     </li>
                     <li class="nav-item">
                         <a href="#" data-toggle="dropdown" class="btn btn-primary dropdown-toggle get-started-btn mt-1 mb-1">View</a>
@@ -75,9 +75,9 @@
             <div id="left">
                 <ul>
                     <li class="anh" id="s1">
-                        <a href="F:\Assignment website\New folder\ttsp.html"><img src="image/Lap-rap-doi-xe-canh-sat-bien-hinh-YY686814-250x250.jpg" class="sp1"/></a>
+                        <a href="#"><img src="image/Lap-rap-doi-xe-canh-sat-bien-hinh-YY686814-250x250.jpg" class="sp1"/></a>
                         <b class="ma">MÃ: CT04</b>
-                        <b><a href="F:\Assignment website\New folder\ttsp.html">Lắp ráp đội xe cảnh sát biến hình</a></b>
+                        <b><a href="#">Lắp ráp đội xe cảnh sát biến hình</a></b>
                         <h4>210.000<sup>đ</sup></h4>
                     </li>
 
